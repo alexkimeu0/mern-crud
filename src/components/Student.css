@@ -1,0 +1,28 @@
+table {
+	width: 40vw;
+	border-collapse: collapse;
+	color: #ffffff;
+}
+
+thead > th {
+	border: 1px solid #dfe6e9;
+	padding: 0.5rem 0.3rem;
+	text-align: left;
+}
+
+table td {
+	border: 1px solid #dfe6e9;
+	padding: 0 0.3rem;
+}
+
+table tr:hover {
+	background-color: #dfe6e9;
+}
+
+.student__edit {
+	color: #0c2461;
+}
+
+.student__delete {
+	color: #b53471;
+}
